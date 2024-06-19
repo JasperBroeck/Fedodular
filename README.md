@@ -31,14 +31,49 @@ Fedodular was created out of a personal interest in Linux customization and modu
 - **Built for Fedora**: Designed to complement the straightforward installation process of Fedora without requiring a custom ISO.
 
 ## Modules
+So to start, just run the fedodular.sh script to install all the basics:
+
+- Gnome extension manager
+- Gnome tweaks
+- Removes all the crap
+
+Then you just choose your modules and install their scripts aswell. If you have two modules with overlapping apps, the scripts will skip apps that are already installed so, no worries!
 
 - Gamer Module
+  - Steam
+  - Discord
+  - OBS Studio
+  - Minecraft
+  - Lutris
+  - Heroic Launcher
+  - OpenArena
+  - Wine & Winetricks
 - Graphic Creator Module
+  - GIMP
+  - InkScape
+  - Krita
 - Video Maker Module
+  - Kdenlive
+  - OBS Studio
+  - Shotcut
+  - Openshot
 - Audio Nerd Module
+  - Audacity
+  - Decibels
+  - Ardour
 - Photographer Module
+  - GIMP
+  - Darktable
+  - Photopea
+  - Photometry
+  - RawTherapee
 - Office Worker Module
+  - WPS Office
+  - LibreOffice
+  - Apostrophe
+  - Paper
 - Template Module
+  - Nothing, just an outline to build your own module
 
 ## Getting Started
 To start using Fedodular, clone the repository and run modules as needed. Use the `-u` option to uninstall modules when desired.
