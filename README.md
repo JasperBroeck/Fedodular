@@ -32,26 +32,13 @@ Fedodular was created out of a personal interest in Linux customization and modu
 
 ## Modules
 
-#### Gamer Module
-Installs gaming applications, Wine, Winetricks, MangoHud, GameMode, and enables ZRAM for optimized gaming performance.
-
-#### Graphic Creator Module
-Tailored for graphic designers and creators with tools like Pika Backup and Flatseal, enhancing productivity and data management.
-
-#### Video Maker Module
-Provides essential tools for video editing and production, enhancing capabilities for video content creators.
-
-#### Audio Nerd Module
-Equips your system with audio production tools and enhancements, catering to audiophiles and audio professionals.
-
-#### Photographer Module
-Includes applications and tools essential for photo editing, organization, and management, ideal for photographers and photo enthusiasts.
-
-#### Office Worker Module
-Enhances productivity with office suite applications and tools, ensuring a productive environment for office tasks and document management.
-
-#### Template Module
-A customizable module that serves as a template for creating new modules, demonstrating the flexibility and extensibility of Fedodular.
+- Gamer Module
+- Graphic Creator Module
+- Video Maker Module
+- Audio Nerd Module
+- Photographer Module
+- Office Worker Module
+- Template Module
 
 ## Getting Started
 To start using Fedodular, clone the repository and run modules as needed. Use the `-u` option to uninstall modules when desired.
