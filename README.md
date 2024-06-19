@@ -63,3 +63,9 @@ To start using Fedodular, clone the repository and run modules as needed. Use th
 
 # Uninstall the Gamer module
 ./fedodular-gamer.sh -u
+```
+## Contributions
+Contributions to Fedodular are welcome! Feel free to create new modules or improve existing ones. Submit pull requests to share your modules with the community.
+
+## License
+This project is licensed under the MIT License.
