@@ -48,26 +48,26 @@ Then you just choose your modules and install their scripts aswell. If you have 
   - Heroic Launcher
   - OpenArena
   - Wine & Winetricks
-- Graphic Creator Module
+- Graphic Creator Module (under construction)
   - GIMP
   - InkScape
   - Krita
-- Video Maker Module
+- Video Maker Module (under construction)
   - Kdenlive
   - OBS Studio
   - Shotcut
   - Openshot
-- Audio Nerd Module
+- Audio Nerd Module (under construction)
   - Audacity
   - Decibels
   - Ardour
-- Photographer Module
+- Photographer Module (under construction)
   - GIMP
   - Darktable
   - Photopea
   - Photometry
   - RawTherapee
-- Office Worker Module
+- Office Worker Module (under construction)
   - WPS Office
   - LibreOffice
   - Apostrophe
